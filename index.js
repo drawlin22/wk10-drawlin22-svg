@@ -1,5 +1,5 @@
-const Cli = require ('./lib/cli.js')
+const Cli = require ('./lib/cli.js') /* imports from CLI constructor */
 
-const cli = new Cli();
+const cli = new Cli(); 
 
 cli.run();
