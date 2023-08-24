@@ -7,6 +7,8 @@ Description: This project was to create an SVG generator that takes user input t
 Installation: 
 ![Svg image](<Screenshot 2023-08-21 at 11.45.31 PM.png>)
 
+Google drive video walkthough link: https://drive.google.com/file/d/1w7Tx81R8cYczgn3GBOO4aMjNkzcijhYQ/view
+
 Usage Deployed Site: NA
 
 
